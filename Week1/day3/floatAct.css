@@ -1,0 +1,36 @@
+
+div.info{
+    text-align:center;
+    
+}
+
+div.fixed{
+    position: fixed;
+    top: 8px;
+    left: 16px;
+     width: 20%;
+    height: 20%;
+   background-color: bisque;
+}
+
+div.relative{
+    position: relative;;
+  left: 0;
+  top: 50%;
+    border: 3px solid #73AD21;
+    width: 20%;
+    height: 20%;
+   background-color: bisque;
+}
+
+div.absolute{
+
+    position: absolute;
+ left: 80%;
+  top: 50%;
+    border: 3px solid #73AD21;
+    width: 20%;
+    height: 20%;
+   background-color: bisque;
+
+}
